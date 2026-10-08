@@ -1,2 +1,3 @@
-# actant-0bb482daae7ab46630a029e0741e4860
-Actants agent repository. Binding: 0bb482daae7ab46630a029e0741e4860c20979a8ab5e59fc0d8c8ad5db3d0284
+# Actants GitHub publishing acceptance
+
+Dedicated staging test of the existing backend publisher. This repository contains fictional example data, no credentials or private workspace files. This verifies repository creation and a provider-verified commit. It does not claim an autonomous agent or full launchpad acceptance.

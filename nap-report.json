@@ -1,0 +1,11 @@
+{
+  "fictionalExample": true,
+  "durationsMinutes": [
+    30,
+    45,
+    20,
+    60,
+    35
+  ],
+  "averageMinutes": 38
+}
