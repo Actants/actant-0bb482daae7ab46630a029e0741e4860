@@ -1,0 +1,2 @@
+# actant-0bb482daae7ab46630a029e0741e4860
+Actants agent repository. Binding: 0bb482daae7ab46630a029e0741e4860c20979a8ab5e59fc0d8c8ad5db3d0284
